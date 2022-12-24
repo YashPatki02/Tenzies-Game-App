@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Tenzies Game App made with React.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Basic Tenzies game that lets users play, track scores, save best scores, and reset scores using local storage. 
 
 ## Available Scripts
 
