@@ -2,7 +2,7 @@
 
 Basic Tenzies game that lets users play, track scores, save best scores, and reset scores using local storage. 
 
-[https://verdant-cupcake-dd7fd0.netlify.app/](Website Demo)
+[Website Demo](https://verdant-cupcake-dd7fd0.netlify.app/)
 
 ## Available Scripts
 
